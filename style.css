@@ -1,0 +1,125 @@
+.site-header {
+    background-color: white;
+    color: black;
+    position: relative;
+}
+
+.icon-img {
+    height: 4.5rem;
+    padding: 0.4em 0;
+    transition: all .3s;
+}
+
+p {
+    margin-bottom: 1rem;
+}
+
+h2 {
+    font-family: Nunito, sans-serif;
+    font-size: 32px;
+    line-height: 1.4;
+}
+
+h3 {
+    font-family: Nunito, sans-serif;
+    font-size: 22px;
+    line-height: 1.5;
+}
+
+section {
+    margin-bottom: 4rem;
+}
+
+.headline-text {
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 70px;
+    line-height: 1em;
+    margin-bottom: 25px;
+    font-weight: 400;
+}
+
+.heading-text2 {
+    color: #a90195;
+    background-color: rgba(0, 0, 0, 0)
+}
+
+.button {
+    background-color: #6305a8;
+    border-radius: 1.5rem;
+    height: 3rem;
+    padding: 11px 1.2rem;
+    width: 65%;
+}
+
+.button a {
+    color: white;
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    font-size: 18px;
+}
+
+.grid-sm-gap {
+    margin-bottom: 2rem;
+}
+
+.brand-logo {
+    width:  100px;
+    height: 100px;
+    background-size: cover;
+    display: block;
+    margin: auto;
+}
+
+.brand-h3 {
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+.services-row {
+    margin: 4rem 0;
+}
+.services-heading {
+    text-transform: capitalize;
+    color: #8d019d;
+    text-align: center;
+    font-weight: bolder;
+    margin-bottom: 3rem;
+}
+
+#services img {
+    height: 300px;
+    width: 350px;
+    display: block;
+    margin: auto;
+}
+
+.vision-box {
+    margin: auto;
+}
+
+.google-review-img {
+    width: 100%;
+}
+
+#get-in-touch {
+    margin-top: 3em;
+}
+
+.get-in-touch-container {
+    align-items: center;
+    background-color: #000;   
+    justify-content: center;
+    padding: 4em 0;
+}
+
+.Heading-get-in-touch {
+    color: #f0f0f0;
+    font-size: 2.4rem;
+    margin-bottom: 2rem 2rem;
+}
+
+.my-btn {
+    width: 160px;
+}
